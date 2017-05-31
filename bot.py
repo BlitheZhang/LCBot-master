@@ -32,9 +32,9 @@ rp_new_member_name = (
 其他用户的PUID 可以通过 执行 export_puid.py 生成 data 文件，在data 文件中获取
 '''
 admin_puids = (
-    '7c6cf027',
-    '86932577',
-    '60ab8b07'
+    'ca1fb73c',
+    'b2cf3f7d',
+    '995ffce4'
 )
 
 '''
@@ -42,10 +42,10 @@ admin_puids = (
 群的PUID 可以通过 执行 export_puid.py 生成 data 文件，在data 文件中获取
 '''
 group_puids = (
-     'f69b4c72',
-     '559e9fc3',
-     '7fb75965',
-     '18d3b0c3'
+     '1b79127b',
+     '3d7385b6',
+     '134611c7',
+     '3fd71a33'
 
   
  )
